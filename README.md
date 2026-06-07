@@ -1,6 +1,6 @@
 
 ```
-Want to get into the world of DevSecOps? In this video we go over important DevSecOps Principles like SCA, SAST, SBOM, SecretScanners and removing vulnerabilities by reducing your security footprint with Distroless images.
+Want to get into the world of DevSecOps? In this repo we go over important DevSecOps Principles like SCA, SAST, SBOM, SecretScanners and removing vulnerabilities by reducing your security footprint with Distroless images.
  
 Distroless Images article: https://edu.chainguard.dev/chainguard/chainguard-images/about/getting-started-distroless/
 
